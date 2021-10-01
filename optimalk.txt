@@ -1,0 +1,35 @@
+K=05: Coherence=0.2745
+K=06: Coherence=0.2987
+K=07: Coherence=0.2770
+K=08: Coherence=0.2694
+K=09: Coherence=0.2757
+K=10: Coherence=0.2791
+K=11: Coherence=0.2972
+K=12: Coherence=0.3071
+K=13: Coherence=0.3062
+K=14: Coherence=0.3043
+K=15: Coherence=0.3022
+K=16: Coherence=0.3020
+K=17: Coherence=0.2903
+K=18: Coherence=0.2882
+K=19: Coherence=0.2988
+K=20: Coherence=0.2920
+K=21: Coherence=0.2851
+K=22: Coherence=0.2962
+K=23: Coherence=0.2987
+K=24: Coherence=0.2927
+K=25: Coherence=0.2908
+
+12 topics:
+Topic 01: wel, leven, moeder, mensen, heel, vader, weer, kinderen, goed, jaar
+Topic 02: patiënten, patiënt, artsen, behandeling, euthanasie, arts, medicijnen, medicijn, huisarts, middel
+Topic 03: onderzoek, dna, onderzoekers, cellen, mensen, eten, wetenschap, kanker, wetenschappers, vlees
+Topic 04: ziekenhuizen, zorg, ziekenhuis, zorgverzekeraars, verzekeraars, kwaliteit, operaties, patiënten, behandelingen, verzekeraar
+Topic 05: the, film, overleden, jarige, jaar, acteur, regisseur, jaren, films, leeftijd
+Topic 06: armstrong, lance, tour, doping, usada, livestrong, uci, france, wielrennen, renner
+Topic 07: chávez, president, venezuela, maduro, hugo, venezolaanse, cuba, caracas, capriles, oppositie
+Topic 08: alpe, dhuzes, euro, kwf, geld, miljoen, veenendaal, kankerbestrijding, deelnemers, dhuez
+Topic 09: vrouwen, borstkanker, mannen, procent, jaar, test, bevolkingsonderzoek, baarmoederhalskanker, kans, hpv
+Topic 10: asbest, bedrijf, euro, volgens, nederland, jaar, zegt, bedrijven, gemeente, minister
+Topic 11: cruijff, ajax, johan, barcelona, feyenoord, club, trainer, voetbal, spelers, wedstrijd
+Topic 12: roken, rokers, sigaret, sigaretten, tabaksindustrie, longkanker, tabak, stoppen, roker, procent
